@@ -1,0 +1,91 @@
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+h1 {
+  color: white;
+}
+
+.navbar {
+  text-align: end;
+}
+
+#homebtn {
+  font-weight: 900;
+  color: #e31b6d;
+}
+
+.header-bar {
+  background: #444649;
+  height: 4px;
+  width: 70px;
+  margin-bottom: 20px;
+}
+
+#homebtn {
+  font-weight: 900;
+  color: #e31b6d;
+}
+
+.foodojotitle {
+  padding-bottom: 20px;
+}
+
+.sectiontitle {
+  text-align: center;
+  padding-top: 2rem;
+  font-size: 24pt;
+  font-weight: 900;
+  color: rgb(50, 55, 55);
+}
+
+.pageupbtn {
+  background: #e31b6d;
+  position: relative;
+  top: -20px;
+  height: 49px;
+  padding-top: 10px;
+
+  color: white;
+  margin-bottom: 0;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+.bd-placeholder-img {
+  height: 100vh;
+}
+
+.navbar {
+  background-color: #bec0c3;
+}
+
+p {
+  color: black;
+}
+
+.logosection {
+  background-color: #e1e1e1;
+}
+
+hr {
+  margin: 0;
+  font-weight: 900;
+}
+
+.foodojoLogo {
+  height: 250px;
+  padding-top: 30px;
+
+  margin-bottom: 0px;
+}
+
+.description {
+  padding: 30px 20px;
+}
+
+.carousel-inner img {
+  margin: 0 25%;
+}
